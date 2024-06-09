@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+a{
+  text-decoration: none;
+  color: #5ada5a;
+}
+img{
+
+  cursor: pointer;
+}
+.flex-dev{
+  display: flex;
+  align-items: center;
+}
